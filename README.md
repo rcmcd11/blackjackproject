@@ -1,1 +1,1 @@
-# blackjackproject
+# Notes for the Project
